@@ -1,2 +1,2 @@
-# -smart-ptr
+# smart-ptr
 Implementing smart pointers to learn
